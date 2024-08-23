@@ -1,0 +1,27 @@
+{
+  "book": "Info",
+  "chapters": [
+    {
+      "chapter": "Language",
+      "verses": []
+    },
+    {
+      "chapter": "Meaningless",
+      "verses": []
+    },
+    {
+      "chapter": "Timestamp",
+      "verses": []
+    },
+    {
+      "chapter": "Translation",
+      "verses": []
+    }
+  ],
+  "Info": {
+    "Language": "English",
+    "Meaningless": "1.0.0",
+    "Timestamp": "2024-08-23T09:02:55.6675370Z",
+    "Translation": "NIV"
+  }
+}
